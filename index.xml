@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Neil&#39;s Blog</title>
-    <link>https://neilzhang618.github.io/</link>
-    <description>Recent content on Neil&#39;s Blog</description>
+    <title>Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-CN</language>
     <lastBuildDate>Tue, 03 Mar 2020 23:16:54 +0800</lastBuildDate>
     
-	<atom:link href="https://neilzhang618.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>浏览器原理</title>
-      <link>https://neilzhang618.github.io/posts/first/</link>
+      <link>http://localhost:1313/post/first/</link>
       <pubDate>Tue, 03 Mar 2020 23:17:43 +0800</pubDate>
       
-      <guid>https://neilzhang618.github.io/posts/first/</guid>
-      <description>浏览器todo  浏览器原理图  </description>
+      <guid>http://localhost:1313/post/first/</guid>
+      <description>浏览器todo 浏览器原理图</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://neilzhang618.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 03 Mar 2020 23:16:54 +0800</pubDate>
       
-      <guid>https://neilzhang618.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Hello</description>
     </item>
     
